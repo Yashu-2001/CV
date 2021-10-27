@@ -36,11 +36,13 @@ body {
 }
 
 .resume .resume_left .resume_profile {
-    width: 80%;
+    padding: 25px 0;
+    width: 100%;
     height: 240px;
 }
 
 .resume .resume_left .resume_profile img {
+    padding: 25px 0;
     width: 100%;
     height: 100%;
 }
